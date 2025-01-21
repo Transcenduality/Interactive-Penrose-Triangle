@@ -23,7 +23,7 @@ Usage:
 
 Download or clone the repository.
 Install the dependencies (see requirements.txt).
-Run the script 3D_Penrose_Triangle.py.
+Run the script _3D_Penrose_Triangle.py.
 
 Controls:
 
