@@ -17,6 +17,7 @@ Lighting Effects: Includes diffuse, ambient, and specular lighting for realistic
 Requirements:
 
 Python 3.12.3 or later
+
 Dependencies listed in requirements.txt
 
 Usage:
