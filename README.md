@@ -29,3 +29,5 @@ Controls:
 
 Mouse: Rotate the camera to explore the illusion.
 Enjoy discovering the magic of an impossible object made real in 3D!
+
+Escape: End the program
